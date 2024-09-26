@@ -1,0 +1,6 @@
+Django
+django-cors-headers
+django-filter
+django-channels-graphql-ws==0.9.1
+graphene-django
+channels[daphne]
